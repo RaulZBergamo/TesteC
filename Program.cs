@@ -11,6 +11,8 @@ namespace TesteGit
             Console.WriteLine("Joao Kleber");
 
             char opcao;
+
+            opcao = '1';
         }
     }
 }
