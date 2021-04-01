@@ -9,6 +9,8 @@ namespace TesteGit
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Joao Kleber");
+
+            char opcao;
         }
     }
 }
